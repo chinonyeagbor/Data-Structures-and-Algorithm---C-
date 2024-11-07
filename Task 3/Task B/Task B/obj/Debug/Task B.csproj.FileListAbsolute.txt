@@ -1,0 +1,22 @@
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\bin\Debug\Task B.exe.config
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\bin\Debug\Task B.exe
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\bin\Debug\Task B.pdb
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.csproj.AssemblyReference.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.csproj.SuggestedBindingRedirects.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task_B.Form1.resources
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task_B.Properties.Resources.resources
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.csproj.GenerateResource.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.csproj.CoreCompileInputs.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.exe
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.pdb
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\bin\Debug\Task B.exe.config
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\bin\Debug\Task B.exe
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\bin\Debug\Task B.pdb
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.csproj.AssemblyReference.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.csproj.SuggestedBindingRedirects.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task_B.Form1.resources
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task_B.Properties.Resources.resources
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.csproj.GenerateResource.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.csproj.CoreCompileInputs.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.exe
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 3\Task B\Task B\obj\Debug\Task B.pdb
