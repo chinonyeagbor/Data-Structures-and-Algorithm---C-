@@ -1,0 +1,32 @@
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskA\TaskA\bin\Debug\TaskA.exe.config
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskA\TaskA\bin\Debug\TaskA.exe
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskA\TaskA\bin\Debug\TaskA.pdb
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskA\TaskA\obj\Debug\TaskA.csproj.AssemblyReference.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskA\TaskA\obj\Debug\TaskA.csproj.SuggestedBindingRedirects.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskA\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskA\TaskA\obj\Debug\TaskA.exe
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskA\TaskA\obj\Debug\TaskA.pdb
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.exe.config
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.exe
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.pdb
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.AssemblyReference.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.SuggestedBindingRedirects.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.exe
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.pdb
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.exe
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.pdb
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.exe.config
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.exe
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.pdb
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.exe.config
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.exe
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\bin\Debug\TaskA.pdb
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.AssemblyReference.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.SuggestedBindingRedirects.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.exe
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskA\TaskA\obj\Debug\TaskA.pdb

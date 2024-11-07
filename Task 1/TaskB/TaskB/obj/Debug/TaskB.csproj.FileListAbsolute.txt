@@ -1,0 +1,77 @@
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.SuggestedBindingRedirects.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.Form1.resources
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.exe.config
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.exe
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.pdb
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.exe
+O:\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.pdb
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.exe
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.pdb
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.Form1.resources
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.exe
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.pdb
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.Form1.resources
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.exe
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\obj\Debug\TaskB.pdb
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.exe
+C:\Users\22469807.AD\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\TaskB\TaskB\bin\Debug\TaskB.pdb
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.exe
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.pdb
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.Form1.resources
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.exe
+C:\Users\22469807\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.pdb
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.exe
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.pdb
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.Form1.resources
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.exe
+C:\Users\SER\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.pdb
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.exe
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.pdb
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.Form1.resources
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.exe
+C:\Users\Admin\OneDrive - MMU\Source\repos\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.pdb
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.exe
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\bin\Debug\TaskB.pdb
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.Form1.resources
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.Properties.Resources.resources
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.GenerateResource.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.exe
+C:\Users\SER\Downloads\Ogbonnaya-Agbor Chinonye-22469807\Algorithms and Data Structures - 6G7V0008\Assessed Exercises 1\TaskB\TaskB\obj\Debug\TaskB.pdb
